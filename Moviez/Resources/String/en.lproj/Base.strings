@@ -1,0 +1,35 @@
+/* 
+  Base.strings
+  Moviez
+
+  Created by Mahsa Sanij on 9/4/20.
+  Copyright © 2020 Mahsa Sanij. All rights reserved.
+*/
+// MARK: - Main
+"main.title" = "TV Show Manager";
+"main.watch_trailer" = "Watch Trailer";
+"main.storyline" = "Storyline";
+"main.description" = "Premise. Set in Albuquerque, New Mexico, between 2008 and 2010, Breaking Bad follows Walter White, a meek high school chemistry teacher who transforms into a ruthless player in the local methamphetamine drug trade, driven by a desire to provide for his family after being diagnosed with terminal lung cancer.";
+"main.add" = "Add new TV show";
+"main.list" = "Show list of added show";
+
+// MARK: - List
+"list.title" = "TV show List";
+"list.seasons" = "Seasons";
+"list.alert_title" = "Error";
+"list.alert_message" = "An error occured while fetching data!";
+"list.alert_primary_button" = "Try Again";
+"list.alert_secondary_button" = "Cancel";
+
+// MARK: - Add
+"add.title" = "Add new TV show";
+"add.textfield_title" = "Title";
+"add.textfield_year" = "Year of release";
+"add.textfield_seasons" = "Number of seasons";
+"add.save" = "Save";
+"add.error_title" = "Title must be at least 2 characters";
+"add.error_year" = "Year must be between 1900 to 2020.";
+"add.error_seasons" = "Number of seasons must be between 1 to 99.";
+"add.alert_title" = "Error";
+"add.alert_message" = "An error occured while saving data. Please try again!";
+
